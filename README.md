@@ -13,3 +13,4 @@ git push
 ```
 git pull
 ```
+(Danach ggf. einmal ```source .venv/bin/activate```)
