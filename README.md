@@ -9,11 +9,11 @@ Junior Data Analyst | Fokus auf explorative Datenanalyse, Visualisierung & story
 
 ## Projekte
 
-### 1. [Projekt-Titel](link-zum-projektordner)
-*Kurzbeschreibung: Welche Fragestellung wurde untersucht?*
-- **Datenquelle:** [Name/Link]
+### 1. [EDA: Pinguine](projekt-1-penguins-eda)
+*Kurzbeschreibung: Analyse von Artunterschieden bei Körpermaßen*
+- **Datenquelle:** [penguins.csv](https://gist.github.com/slopp/ce3b90b9168f2f921784de84fa445651#file-penguins-csv)
 - **Tools:** Python, Pandas, Matplotlib
-- **Ergebnis:** [1-2 Sätze zur Erkenntnis]
+- **Ergebnis:** 
 
 ### 2. [Nächstes Projekt]
 ...
